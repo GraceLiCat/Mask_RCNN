@@ -3,6 +3,8 @@ The build/compilations setup
 
 >> pip install -r requirements.txt
 >> python setup.py install
+
+setup virtualenv with pipenv
 """
 import pip
 import logging
